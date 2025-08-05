@@ -1,2 +1,4 @@
-# egency47.github.io
-Azlyzer – Amazon Analytics Tool
+# Azlyzer
+AI-Powered Amazon Analytics Tool
+
+
